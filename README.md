@@ -1,9 +1,9 @@
-# QUELCODE PHP課題 
+# CODEGYM PHP課題 
 
 ## ディレクトリ解説
 
 ```
-quelcode-php
+codegym-php
 ├── html ....................... ドキュメントルート
 ├── mysql5.7
 │   ├── mysql .................. 起動すると作られる。データ永続化用
